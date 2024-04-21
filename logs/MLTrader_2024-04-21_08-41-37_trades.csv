@@ -1,0 +1,9 @@
+time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-11-16 09:30:00-05:00,MLTrader,SPY,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-11-16 09:30:00-05:00,MLTrader,AMZN,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-11-16 09:30:00-05:00,MLTrader,SPY,buy,market,fill,1,gtc,0.0,1,stock,449.2200012207031,111.0,0.0
+2023-11-16 09:30:00-05:00,MLTrader,AMZN,buy,market,fill,1,gtc,0.0,1,stock,140.91000366210938,355.0,0.0
+2023-11-27 08:30:00-05:00,MLTrader,AMZN,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-11-27 08:30:00-05:00,MLTrader,AMZN,sell,limit,fill,1,day,0.0,1,stock,147.95550384521485,355.0,0.0
+2023-12-14 09:30:00-05:00,MLTrader,SPY,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-12-14 09:30:00-05:00,MLTrader,SPY,sell,limit,fill,1,day,0.0,1,stock,472.5,111.0,0.0
