@@ -1,0 +1,51 @@
+2024-04-21 04:41:10,502: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-04-21 04:41:13,086: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-04-21 04:41:13,087: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 04:41:13,088: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-04-21 04:41:13,089: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 04:41:13,090: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 04:41:13[0m
+2024-04-21 04:41:13,092: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 04:41:13,099: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 04:41:14,652: root: ERROR: Invalid format for parameter start: error parsing '2023-12-$d' as RFC3339 or 2006-01-02 time: parsing time "2023-12-$d" as "2006-01-02": cannot parse "$d" as "02"
+2024-04-21 04:41:14,655: root: ERROR: Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 829, in run
+    self._run_trading_session()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 780, in _run_trading_session
+    self._on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 274, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 298, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 87, in func_output
+    return func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 378, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 57, in on_trading_iteration
+    news = self.get_news()
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 42, in get_news
+    news = self.api.get_news(symbol=self.symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 988, in get_news
+    news = list(self.get_news_iter(symbol=symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 972, in get_news_iter
+    for n in news:
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 594, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 274, in data_get
+    return self._request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 222, in _request
+    return self._one_request(method, url, opts, retry)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 248, in _one_request
+    raise_api_error(resp, http_error)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 83, in raise_api_error
+    raise APIError(error, http_error) from None
+alpaca_trade_api.rest.APIError: Invalid format for parameter start: error parsing '2023-12-$d' as RFC3339 or 2006-01-02 time: parsing time "2023-12-$d" as "2006-01-02": cannot parse "$d" as "02"
+
+2024-04-21 04:41:14,660: root: INFO: MLTrader : Executing the on_bot_crash event method
+2024-04-21 04:41:14,677: root: INFO: Backtesting finished
+2024-04-21 04:41:14,680: root: WARNING: Cannot plot returns because the strategy returns are missing
+2024-04-21 04:41:14,876: root: WARNING: Cannot create a tearsheet because the strategy returns are missing
+2024-04-21 04:41:14,877: backtest_stats: INFO: Backtest took 0:00:04.446176 for a speed of 0.000

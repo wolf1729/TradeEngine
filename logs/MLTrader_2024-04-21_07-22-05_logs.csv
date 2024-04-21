@@ -1,0 +1,1686 @@
+2024-04-21 07:22:06,640: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-04-21 07:22:09,371: root: INFO: Current backtesting datetime 2020-01-02 08:30:00-05:00
+2024-04-21 07:22:09,371: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:22:09,371: root: INFO: Current backtesting datetime 2020-01-02 09:30:00-05:00
+2024-04-21 07:22:09,371: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:22:09,371: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:09[0m
+2024-04-21 07:22:09,380: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:09,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:14,021: root: INFO: [32mNew market order of | 155.0 SPY buy | at price $388.2480102539062 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:14,029: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:14[0m
+2024-04-21 07:22:14,029: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:14,029: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:14,037: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:14,037: root: INFO: market order of | 155.0 SPY buy | at price $388.2480102539062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:14,037: root: INFO: market order of | 155.0 SPY buy | at price $388.2480102539062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:14,037: root: INFO: [32mFilled Transaction: buy 155.0 of SPY at 323.54000854 USD per share[0m
+2024-04-21 07:22:14,037: root: INFO: market order of | 155.0 SPY buy | at price $388.2480102539062 of class bracket with status new was filled
+2024-04-21 07:22:14,045: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:14,045: root: INFO: Current backtesting datetime 2020-01-02 16:00:00-05:00
+2024-04-21 07:22:14,045: root: INFO: Current backtesting datetime 2020-01-03 09:30:00-05:00
+2024-04-21 07:22:14,053: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:14[0m
+2024-04-21 07:22:14,053: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:14,053: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,430: root: INFO: [32mNew market order of | 78.0 SPY buy | at price $385.3920043945312 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:15,430: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:15[0m
+2024-04-21 07:22:15,430: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,430: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,430: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,438: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,438: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,438: root: INFO: market order of | 78.0 SPY buy | at price $385.3920043945312 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:15,438: root: INFO: market order of | 78.0 SPY buy | at price $385.3920043945312 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:15,438: root: INFO: [32mFilled Transaction: buy 78.0 of SPY at 321.16000366 USD per share[0m
+2024-04-21 07:22:15,438: root: INFO: market order of | 78.0 SPY buy | at price $385.3920043945312 of class bracket with status new was filled
+2024-04-21 07:22:15,446: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:15,446: root: INFO: Current backtesting datetime 2020-01-03 16:00:00-05:00
+2024-04-21 07:22:15,454: root: INFO: Current backtesting datetime 2020-01-04 09:30:00-05:00
+2024-04-21 07:22:15,454: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:22:15,454: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,454: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,462: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,471: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,471: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,471: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,471: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,473: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,474: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,474: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,474: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,474: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-04-21 07:22:15,479: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,479: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,487: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,487: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-04-21 07:22:15,487: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:22:15,487: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,487: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,487: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,487: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,487: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,487: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,495: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,495: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,495: root: INFO: Current backtesting datetime 2020-01-06 08:30:00-05:00
+2024-04-21 07:22:15,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,503: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:22:15,504: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,504: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:15,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,511: root: INFO: Current backtesting datetime 2020-01-06 09:30:00-05:00
+2024-04-21 07:22:15,511: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:22:15,520: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:15[0m
+2024-04-21 07:22:15,521: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:15,521: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,377: root: INFO: [32mNew market order of | 39.0 SPY buy | at price $384.58798828125 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:17,385: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:17[0m
+2024-04-21 07:22:17,385: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:17,385: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,385: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,393: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:17,393: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,393: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,393: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:17,393: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,393: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,393: root: INFO: market order of | 39.0 SPY buy | at price $384.58798828125 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:17,393: root: INFO: market order of | 39.0 SPY buy | at price $384.58798828125 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:17,393: root: INFO: [32mFilled Transaction: buy 39.0 of SPY at 320.48999023 USD per share[0m
+2024-04-21 07:22:17,393: root: INFO: market order of | 39.0 SPY buy | at price $384.58798828125 of class bracket with status new was filled
+2024-04-21 07:22:17,402: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:17,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,402: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:17,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,410: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:17,410: root: INFO: Current backtesting datetime 2020-01-06 16:00:00-05:00
+2024-04-21 07:22:17,410: root: INFO: Current backtesting datetime 2020-01-07 09:30:00-05:00
+2024-04-21 07:22:17,410: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:17[0m
+2024-04-21 07:22:17,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:17,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,364: root: INFO: [32mNew market order of | 19.0 SPY buy | at price $387.6239868164062 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:19,381: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:19[0m
+2024-04-21 07:22:19,381: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,381: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,381: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,381: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,381: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,389: root: INFO: market order of | 19.0 SPY buy | at price $387.6239868164062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:19,389: root: INFO: market order of | 19.0 SPY buy | at price $387.6239868164062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:19,389: root: INFO: [32mFilled Transaction: buy 19.0 of SPY at 323.01998901 USD per share[0m
+2024-04-21 07:22:19,389: root: INFO: market order of | 19.0 SPY buy | at price $387.6239868164062 of class bracket with status new was filled
+2024-04-21 07:22:19,389: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,406: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:19,406: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,406: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,406: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:19,406: root: INFO: Current backtesting datetime 2020-01-07 16:00:00-05:00
+2024-04-21 07:22:19,406: root: INFO: Current backtesting datetime 2020-01-08 09:30:00-05:00
+2024-04-21 07:22:19,414: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:19[0m
+2024-04-21 07:22:19,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:19,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,044: root: INFO: [32mNew market order of | 10.0 SPY buy | at price $387.5280029296875 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:21,053: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:21[0m
+2024-04-21 07:22:21,053: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,053: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,053: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,061: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,061: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,069: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,069: root: INFO: market order of | 10.0 SPY buy | at price $387.5280029296875 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:21,069: root: INFO: market order of | 10.0 SPY buy | at price $387.5280029296875 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:21,069: root: INFO: [32mFilled Transaction: buy 10.0 of SPY at 322.94000244 USD per share[0m
+2024-04-21 07:22:21,069: root: INFO: market order of | 10.0 SPY buy | at price $387.5280029296875 of class bracket with status new was filled
+2024-04-21 07:22:21,077: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,077: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,077: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,077: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:21,077: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,085: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,085: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:21,085: root: INFO: Current backtesting datetime 2020-01-08 16:00:00-05:00
+2024-04-21 07:22:21,085: root: INFO: Current backtesting datetime 2020-01-09 09:30:00-05:00
+2024-04-21 07:22:21,093: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:21[0m
+2024-04-21 07:22:21,093: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:21,093: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,790: root: INFO: [32mNew market order of | 4.0 SPY buy | at price $391.3920043945312 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:22,790: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:22[0m
+2024-04-21 07:22:22,790: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,790: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,798: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,798: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,806: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,806: root: INFO: market order of | 4.0 SPY buy | at price $391.3920043945312 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:22,806: root: INFO: market order of | 4.0 SPY buy | at price $391.3920043945312 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:22,806: root: INFO: [32mFilled Transaction: buy 4.0 of SPY at 326.16000366 USD per share[0m
+2024-04-21 07:22:22,806: root: INFO: market order of | 4.0 SPY buy | at price $391.3920043945312 of class bracket with status new was filled
+2024-04-21 07:22:22,814: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,814: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,823: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,828: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,828: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,828: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,831: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,831: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:22,831: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,831: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,831: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:22,831: root: INFO: Current backtesting datetime 2020-01-09 16:00:00-05:00
+2024-04-21 07:22:22,831: root: INFO: Current backtesting datetime 2020-01-10 09:30:00-05:00
+2024-04-21 07:22:22,839: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:22[0m
+2024-04-21 07:22:22,839: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:22,839: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,443: root: INFO: [32mNew market order of | 2.0 SPY buy | at price $392.7480102539062 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:24,451: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:24[0m
+2024-04-21 07:22:24,451: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,451: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,451: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,451: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,451: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,461: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,461: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,463: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,463: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,464: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,465: root: INFO: market order of | 2.0 SPY buy | at price $392.7480102539062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:24,465: root: INFO: market order of | 2.0 SPY buy | at price $392.7480102539062 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:24,465: root: INFO: [32mFilled Transaction: buy 2.0 of SPY at 327.29000854 USD per share[0m
+2024-04-21 07:22:24,466: root: INFO: market order of | 2.0 SPY buy | at price $392.7480102539062 of class bracket with status new was filled
+2024-04-21 07:22:24,477: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,477: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,485: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,485: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,485: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,485: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,485: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,485: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,493: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,501: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:24,509: root: INFO: Current backtesting datetime 2020-01-10 16:00:00-05:00
+2024-04-21 07:22:24,509: root: INFO: Current backtesting datetime 2020-01-11 09:30:00-05:00
+2024-04-21 07:22:24,509: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:22:24,509: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,509: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,509: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,509: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,509: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,509: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,509: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,509: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,525: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,525: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,525: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,525: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,525: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,528: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,528: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,541: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,549: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-04-21 07:22:24,566: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,566: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-04-21 07:22:24,598: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:22:24,598: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,628: root: INFO: Current backtesting datetime 2020-01-13 08:30:00-05:00
+2024-04-21 07:22:24,631: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,631: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,631: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:22:24,631: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,631: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,631: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,631: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,631: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,639: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,655: root: INFO: Current backtesting datetime 2020-01-13 09:30:00-05:00
+2024-04-21 07:22:24,655: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:22:24,663: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:24[0m
+2024-04-21 07:22:24,663: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:24,663: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,217: root: INFO: [32mNew market order of | 1.0 SPY buy | at price $391.668017578125 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:26,217: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:26[0m
+2024-04-21 07:22:26,217: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,217: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,217: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,226: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,226: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,226: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,226: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,226: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,231: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,231: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,231: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,231: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,231: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,231: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,234: root: INFO: market order of | 1.0 SPY buy | at price $391.668017578125 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:26,234: root: INFO: market order of | 1.0 SPY buy | at price $391.668017578125 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:26,234: root: INFO: [32mFilled Transaction: buy 1.0 of SPY at 326.39001465 USD per share[0m
+2024-04-21 07:22:26,242: root: INFO: market order of | 1.0 SPY buy | at price $391.668017578125 of class bracket with status new was filled
+2024-04-21 07:22:26,242: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,242: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,242: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,250: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,250: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,250: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,258: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,258: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,258: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,258: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,258: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:26,258: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,258: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,266: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:26,266: root: INFO: Current backtesting datetime 2020-01-13 16:00:00-05:00
+2024-04-21 07:22:26,266: root: INFO: Current backtesting datetime 2020-01-14 09:30:00-05:00
+2024-04-21 07:22:26,272: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:26[0m
+2024-04-21 07:22:26,272: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:26,274: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,948: root: INFO: [32mNew market order of | 1.0 SPY buy | at price $392.96400146484376 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:22:27,956: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:27[0m
+2024-04-21 07:22:27,956: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,956: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,964: root: INFO: market order of | 1.0 SPY buy | at price $392.96400146484376 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:27,964: root: INFO: market order of | 1.0 SPY buy | at price $392.96400146484376 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:22:27,964: root: INFO: [32mFilled Transaction: buy 1.0 of SPY at 327.47000122 USD per share[0m
+2024-04-21 07:22:27,964: root: INFO: market order of | 1.0 SPY buy | at price $392.96400146484376 of class bracket with status new was filled
+2024-04-21 07:22:27,989: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,989: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,989: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,989: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,989: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,989: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:27,997: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,021: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:28,023: root: INFO: Current backtesting datetime 2020-01-14 16:00:00-05:00
+2024-04-21 07:22:28,023: root: INFO: Current backtesting datetime 2020-01-15 09:30:00-05:00
+2024-04-21 07:22:28,028: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:28[0m
+2024-04-21 07:22:28,028: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:28,031: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,987: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:29[0m
+2024-04-21 07:22:29,987: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,987: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,012: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:30,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,020: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:30,028: root: INFO: Current backtesting datetime 2020-01-15 16:00:00-05:00
+2024-04-21 07:22:30,028: root: INFO: Current backtesting datetime 2020-01-16 09:30:00-05:00
+2024-04-21 07:22:30,028: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:30[0m
+2024-04-21 07:22:30,028: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:30,028: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,002: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:32[0m
+2024-04-21 07:22:32,002: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,002: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,011: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,027: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,027: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,035: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:32,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,043: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:32,043: root: INFO: Current backtesting datetime 2020-01-16 16:00:00-05:00
+2024-04-21 07:22:32,043: root: INFO: Current backtesting datetime 2020-01-17 09:30:00-05:00
+2024-04-21 07:22:32,043: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:32[0m
+2024-04-21 07:22:32,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:32,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,531: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:22:33[0m
+2024-04-21 07:22:33,531: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,531: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,540: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,540: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,540: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,543: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,543: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,543: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,543: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,543: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,543: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,564: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,572: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,572: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:22:33,572: root: INFO: Current backtesting datetime 2020-01-17 16:00:00-05:00
+2024-04-21 07:22:33,572: root: INFO: Current backtesting datetime 2020-01-18 09:30:00-05:00
+2024-04-21 07:22:33,572: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:22:33,580: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,581: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,581: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,582: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,582: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,583: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,583: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,584: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,586: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,587: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,588: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,597: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,605: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,637: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,637: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,643: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,643: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-04-21 07:22:33,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-04-21 07:22:33,686: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:22:33,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,719: root: INFO: Current backtesting datetime 2020-01-21 08:30:00-05:00
+2024-04-21 07:22:33,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,727: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:22:33,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,744: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:22:33,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,760: root: INFO: Current backtesting datetime 2020-01-21 09:30:00-05:00
+2024-04-21 07:22:33,760: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:22:33,760: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:22:33[0m
+2024-04-21 07:22:33,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:33,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:22:57,889: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: no close frame received or sent
+2024-04-21 07:22:57,905: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:57,889: root: ERROR: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-04-21 07:22:57,914: root: ERROR: Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 1375, in getresponse
+    response.begin()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 1375, in getresponse
+    response.begin()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 829, in run
+    self._run_trading_session()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 780, in _run_trading_session
+    self._on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 274, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 298, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 87, in func_output
+    return func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 378, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 54, in on_trading_iteration
+    probability,sentiment = self.get_sentiment()
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 43, in get_sentiment
+    news = self.api.get_news(symbol=self.symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 988, in get_news
+    news = list(self.get_news_iter(symbol=symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 972, in get_news_iter
+    for n in news:
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 594, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 274, in data_get
+    return self._request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 222, in _request
+    return self._one_request(method, url, opts, retry)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 241, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+2024-04-21 07:22:57,922: root: INFO: MLTrader : Executing the on_bot_crash event method
+2024-04-21 07:22:57,932: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:57,989: yfinance: ERROR: SPY: No price data found, symbol may be delisted (1d 1925-05-15 -> 2024-04-20)
+2024-04-21 07:22:57,989: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:57,989: root: ERROR: 'Index' object has no attribute 'date'
+2024-04-21 07:22:57,989: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:57,997: root: ERROR: Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 1375, in getresponse
+    response.begin()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 1375, in getresponse
+    response.begin()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\http\client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 829, in run
+    self._run_trading_session()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 780, in _run_trading_session
+    self._on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 274, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 298, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 87, in func_output
+    return func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 378, in _on_trading_iteration
+    on_trading_iteration()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 54, in on_trading_iteration
+    probability,sentiment = self.get_sentiment()
+  File "c:\Users\kushw\PROJECTS\python projects\trade\Trading\tradingbot.py", line 43, in get_sentiment
+    news = self.api.get_news(symbol=self.symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 988, in get_news
+    news = list(self.get_news_iter(symbol=symbol,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 972, in get_news_iter
+    for n in news:
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 594, in _data_get
+    resp = self.data_get(path, data=data, feed=feed,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 274, in data_get
+    return self._request(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 222, in _request
+    return self._one_request(method, url, opts, retry)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca_trade_api\rest.py", line 241, in _one_request
+    resp = self._session.request(method, url, **opts)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 835, in run
+    self._on_bot_crash(e)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\strategy_executor.py", line 423, in _on_bot_crash
+    self.strategy._dump_stats()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\strategies\_strategy.py", line 575, in _dump_stats
+    self._benchmark_returns_df = get_symbol_returns(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\lumibot\tools\indicators.py", line 187, in get_symbol_returns
+    (returns_df.index.date >= start.date()) & (returns_df.index.date <= end.date())
+AttributeError: 'Index' object has no attribute 'date'
+
+2024-04-21 07:22:58,013: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,014: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,038: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,038: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,046: root: INFO: Backtesting finished
+2024-04-21 07:22:58,054: root: WARNING: Cannot plot returns because the benchmark returns are missing
+2024-04-21 07:22:58,062: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,062: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,078: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,078: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,102: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,102: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,126: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,126: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,150: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,150: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,174: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,174: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,190: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,190: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,206: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,206: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,238: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,238: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,254: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,254: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,270: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,270: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+2024-04-21 07:22:58,286: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 07:22:58,286: root: ERROR: No data to create tearsheet, skipping
+2024-04-21 07:22:58,286: backtest_stats: INFO: Backtest took 0:00:51.646825 for a speed of 0.000
+2024-04-21 07:22:58,294: alpaca.trading.stream: ERROR: error during websocket communication: [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 128, in _start_ws
+    await self._connect()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 59, in _connect
+    self._ws = await websockets.connect(self._endpoint, **self._websocket_params)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 647, in __await_impl_timeout__
+    return await self.__await_impl__()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\websockets\legacy\client.py", line 651, in __await_impl__
+    _transport, _protocol = await self._create_connection()
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1036, in create_connection
+    infos = await self._ensure_resolved(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 1418, in _ensure_resolved
+    return await loop.getaddrinfo(host, port, family=family, type=type,
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\kushw\miniconda3\envs\tgpu\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed

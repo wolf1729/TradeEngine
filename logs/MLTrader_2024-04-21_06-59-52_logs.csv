@@ -1,0 +1,985 @@
+2024-04-21 06:59:52,633: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-04-21 06:59:55,407: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-04-21 06:59:55,409: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 06:59:55,411: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-04-21 06:59:55,411: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 06:59:55,413: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 06:59:55[0m
+2024-04-21 06:59:55,475: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 06:59:55,483: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,245: root: INFO: [32mNew market order of | 106.0 SPY buy | at price $563.3879882812499 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:00,250: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:00[0m
+2024-04-21 07:00:00,250: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,258: root: INFO: market order of | 106.0 SPY buy | at price $563.3879882812499 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:00,258: root: INFO: market order of | 106.0 SPY buy | at price $563.3879882812499 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:00,258: root: INFO: [32mFilled Transaction: buy 106.0 of SPY at 469.48999023 USD per share[0m
+2024-04-21 07:00:00,258: root: INFO: market order of | 106.0 SPY buy | at price $563.3879882812499 of class bracket with status new was filled
+2024-04-21 07:00:00,258: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:00,265: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-04-21 07:00:00,265: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-04-21 07:00:00,265: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:00:00,265: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,265: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,265: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,273: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,273: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,276: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,276: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,276: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,276: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,276: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,276: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,281: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,284: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-04-21 07:00:00,286: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,286: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,286: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,286: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,286: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,290: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,292: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-04-21 07:00:00,292: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:00:00,292: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,292: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,293: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,294: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,294: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,295: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,297: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-04-21 07:00:00,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,298: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:00:00,298: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,298: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:00,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,305: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,306: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-04-21 07:00:00,306: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:00:00,306: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:00[0m
+2024-04-21 07:00:00,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:00,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,501: root: INFO: [32mNew market order of | 54.0 SPY buy | at price $565.1760131835937 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:01,506: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:01[0m
+2024-04-21 07:00:01,506: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:01,506: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,506: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,509: root: INFO: market order of | 54.0 SPY buy | at price $565.1760131835937 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:01,509: root: INFO: market order of | 54.0 SPY buy | at price $565.1760131835937 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:01,509: root: INFO: [32mFilled Transaction: buy 54.0 of SPY at 470.98001099 USD per share[0m
+2024-04-21 07:00:01,509: root: INFO: market order of | 54.0 SPY buy | at price $565.1760131835937 of class bracket with status new was filled
+2024-04-21 07:00:01,517: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:01,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,517: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:01,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,525: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,526: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:01,526: root: INFO: Current backtesting datetime 2023-12-18 16:00:00-05:00
+2024-04-21 07:00:01,526: root: INFO: Current backtesting datetime 2023-12-19 09:30:00-05:00
+2024-04-21 07:00:01,533: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:01[0m
+2024-04-21 07:00:01,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:01,535: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,746: root: INFO: [32mNew market order of | 26.0 SPY buy | at price $567.0359985351562 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:02,752: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:02[0m
+2024-04-21 07:00:02,752: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:02,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,756: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,759: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:02,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,759: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:02,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,759: root: INFO: market order of | 26.0 SPY buy | at price $567.0359985351562 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:02,759: root: INFO: market order of | 26.0 SPY buy | at price $567.0359985351562 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:02,759: root: INFO: [32mFilled Transaction: buy 26.0 of SPY at 472.52999878 USD per share[0m
+2024-04-21 07:00:02,759: root: INFO: market order of | 26.0 SPY buy | at price $567.0359985351562 of class bracket with status new was filled
+2024-04-21 07:00:02,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:02,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:02,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,776: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,776: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:02,776: root: INFO: Current backtesting datetime 2023-12-19 16:00:00-05:00
+2024-04-21 07:00:02,776: root: INFO: Current backtesting datetime 2023-12-20 09:30:00-05:00
+2024-04-21 07:00:02,776: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:02[0m
+2024-04-21 07:00:02,784: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:02,786: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,546: root: INFO: [32mNew market order of | 13.0 SPY buy | at price $568.7519897460937 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:04,566: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:04[0m
+2024-04-21 07:00:04,566: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,568: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,568: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,568: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,568: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,575: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,575: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,577: root: INFO: market order of | 13.0 SPY buy | at price $568.7519897460937 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:04,577: root: INFO: market order of | 13.0 SPY buy | at price $568.7519897460937 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:04,577: root: INFO: [32mFilled Transaction: buy 13.0 of SPY at 473.95999146 USD per share[0m
+2024-04-21 07:00:04,577: root: INFO: market order of | 13.0 SPY buy | at price $568.7519897460937 of class bracket with status new was filled
+2024-04-21 07:00:04,577: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,586: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,586: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,586: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:04,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,596: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:04,596: root: INFO: Current backtesting datetime 2023-12-20 16:00:00-05:00
+2024-04-21 07:00:04,596: root: INFO: Current backtesting datetime 2023-12-21 09:30:00-05:00
+2024-04-21 07:00:04,601: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:04[0m
+2024-04-21 07:00:04,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:04,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,522: root: INFO: [32mNew market order of | 7.0 SPY buy | at price $565.5959838867187 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:06,522: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:06[0m
+2024-04-21 07:00:06,522: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,530: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,538: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,538: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,542: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,542: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,547: root: INFO: market order of | 7.0 SPY buy | at price $565.5959838867187 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:06,547: root: INFO: market order of | 7.0 SPY buy | at price $565.5959838867187 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:06,547: root: INFO: [32mFilled Transaction: buy 7.0 of SPY at 471.32998657 USD per share[0m
+2024-04-21 07:00:06,547: root: INFO: market order of | 7.0 SPY buy | at price $565.5959838867187 of class bracket with status new was filled
+2024-04-21 07:00:06,547: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,547: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,547: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:06,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,563: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:06,563: root: INFO: Current backtesting datetime 2023-12-21 16:00:00-05:00
+2024-04-21 07:00:06,563: root: INFO: Current backtesting datetime 2023-12-22 09:30:00-05:00
+2024-04-21 07:00:06,571: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:06[0m
+2024-04-21 07:00:06,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:06,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,605: root: INFO: [32mNew market order of | 3.0 SPY buy | at price $568.631982421875 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:08,613: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:08[0m
+2024-04-21 07:00:08,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,630: root: INFO: market order of | 3.0 SPY buy | at price $568.631982421875 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:08,630: root: INFO: market order of | 3.0 SPY buy | at price $568.631982421875 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:08,630: root: INFO: [32mFilled Transaction: buy 3.0 of SPY at 473.85998535 USD per share[0m
+2024-04-21 07:00:08,630: root: INFO: market order of | 3.0 SPY buy | at price $568.631982421875 of class bracket with status new was filled
+2024-04-21 07:00:08,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,645: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:08,654: root: INFO: Current backtesting datetime 2023-12-22 16:00:00-05:00
+2024-04-21 07:00:08,654: root: INFO: Current backtesting datetime 2023-12-23 09:30:00-05:00
+2024-04-21 07:00:08,654: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:00:08,654: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,654: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,695: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-04-21 07:00:08,703: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,719: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,727: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-04-21 07:00:08,727: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:00:08,727: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,743: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,745: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,745: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,745: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,745: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,745: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,745: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,745: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,745: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,751: root: INFO: Current backtesting datetime 2023-12-26 08:30:00-05:00
+2024-04-21 07:00:08,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,759: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:00:08,759: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,759: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,783: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,783: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:08,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,783: root: INFO: Current backtesting datetime 2023-12-26 09:30:00-05:00
+2024-04-21 07:00:08,783: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:00:08,792: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:08[0m
+2024-04-21 07:00:08,792: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:08,792: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,726: root: INFO: [32mNew market order of | 2.0 SPY buy | at price $568.8840087890625 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:09,726: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:09[0m
+2024-04-21 07:00:09,726: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,726: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,726: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,734: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,734: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,734: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,734: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,734: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,734: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,734: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,734: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,742: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,742: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,748: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,748: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,748: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,750: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,750: root: INFO: market order of | 2.0 SPY buy | at price $568.8840087890625 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:09,750: root: INFO: market order of | 2.0 SPY buy | at price $568.8840087890625 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:09,750: root: INFO: [32mFilled Transaction: buy 2.0 of SPY at 474.07000732 USD per share[0m
+2024-04-21 07:00:09,750: root: INFO: market order of | 2.0 SPY buy | at price $568.8840087890625 of class bracket with status new was filled
+2024-04-21 07:00:09,767: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,775: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,783: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:09,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,783: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,783: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:09,783: root: INFO: Current backtesting datetime 2023-12-26 16:00:00-05:00
+2024-04-21 07:00:09,783: root: INFO: Current backtesting datetime 2023-12-27 09:30:00-05:00
+2024-04-21 07:00:09,791: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:09[0m
+2024-04-21 07:00:09,791: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:09,791: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,569: root: INFO: [32mNew market order of | 1.0 SPY buy | at price $570.5280029296874 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 07:00:11,569: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:11[0m
+2024-04-21 07:00:11,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,577: root: INFO: market order of | 1.0 SPY buy | at price $570.5280029296874 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:11,577: root: INFO: market order of | 1.0 SPY buy | at price $570.5280029296874 of class bracket with status new was sent to broker backtesting
+2024-04-21 07:00:11,577: root: INFO: [32mFilled Transaction: buy 1.0 of SPY at 475.44000244 USD per share[0m
+2024-04-21 07:00:11,577: root: INFO: market order of | 1.0 SPY buy | at price $570.5280029296874 of class bracket with status new was filled
+2024-04-21 07:00:11,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,601: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,609: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:11,618: root: INFO: Current backtesting datetime 2023-12-27 16:00:00-05:00
+2024-04-21 07:00:11,618: root: INFO: Current backtesting datetime 2023-12-28 09:30:00-05:00
+2024-04-21 07:00:11,618: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:11[0m
+2024-04-21 07:00:11,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:11,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,361: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:13[0m
+2024-04-21 07:00:13,361: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,361: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,361: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,361: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,361: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,361: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,361: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,361: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,369: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,386: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:13,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,394: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:13,394: root: INFO: Current backtesting datetime 2023-12-28 16:00:00-05:00
+2024-04-21 07:00:13,394: root: INFO: Current backtesting datetime 2023-12-29 09:30:00-05:00
+2024-04-21 07:00:13,394: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 07:00:13[0m
+2024-04-21 07:00:13,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:13,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,544: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 07:00:14[0m
+2024-04-21 07:00:14,544: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,553: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,553: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,553: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,553: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,555: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,555: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,577: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 07:00:14,577: root: INFO: Current backtesting datetime 2023-12-29 16:00:00-05:00
+2024-04-21 07:00:14,577: root: INFO: Current backtesting datetime 2023-12-30 09:30:00-05:00
+2024-04-21 07:00:14,577: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 07:00:14,577: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,618: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,625: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,625: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,633: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,633: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,641: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,649: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-04-21 07:00:14,649: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,665: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,674: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,681: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-04-21 07:00:14,681: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:00:14,681: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,681: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,698: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,706: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,714: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,714: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,714: root: INFO: Current backtesting datetime 2024-01-02 08:30:00-05:00
+2024-04-21 07:00:14,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 07:00:14,723: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: INFO: Current backtesting datetime 2024-01-02 09:30:00-05:00
+2024-04-21 07:00:14,755: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 07:00:14,755: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,763: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,764: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,772: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: INFO: Current backtesting datetime 2024-01-02 15:59:00-05:00
+2024-04-21 07:00:14,780: root: INFO: MLTrader : Executing the before_market_closes lifecycle method
+2024-04-21 07:00:14,780: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,780: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,788: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,788: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,796: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,796: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,796: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,797: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,798: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,798: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,799: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,799: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,800: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,800: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,801: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,801: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,802: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,802: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,802: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 07:00:14,811: root: INFO: Current backtesting datetime 2024-01-02 16:00:00-05:00
+2024-04-21 07:00:14,811: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 07:00:14,811: root: INFO: MLTrader : Executing the on_strategy_end lifecycle method
+2024-04-21 07:00:17,051: root: INFO: Backtesting finished
