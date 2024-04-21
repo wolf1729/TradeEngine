@@ -1,0 +1,1642 @@
+2024-04-21 10:47:18,482: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-04-21 10:47:18,868: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:18,917: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:18,917: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:18,949: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:19,166: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:19,207: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:19,247: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:19,335: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:19,816: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:19,864: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:19,872: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:19,888: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:19,936: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:19,984: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:20,192: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:20,311: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:20,762: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:20,770: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:20,794: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:20,794: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:21,131: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:21,195: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:21,227: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:21,323: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:21,758: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:21,814: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:21,896: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:21,912: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:21,920: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:21,969: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:22,187: root: INFO: Current backtesting datetime 2023-11-15 08:30:00-05:00
+2024-04-21 10:47:22,187: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:22,187: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:22,187: root: INFO: Current backtesting datetime 2023-11-15 09:30:00-05:00
+2024-04-21 10:47:22,195: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:22,198: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:22[0m
+2024-04-21 10:47:22,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:22,204: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:22,236: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:22,558: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:22,582: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:22,831: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:22,847: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,005: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,029: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,113: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,145: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,492: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,508: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,508: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,532: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,613: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,637: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:23,734: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:23,759: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:24,180: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:24,205: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:24,411: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:24,430: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:24,434: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:24,445: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:24,596: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:24,607: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:25,123: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:25,124: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:25,186: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:25,186: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:25,194: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:25,219: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:25,243: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:25,267: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:25,380: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:25[0m
+2024-04-21 10:47:25,380: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:25,388: root: INFO: Current backtesting datetime 2023-11-15 16:00:00-05:00
+2024-04-21 10:47:25,388: root: INFO: Current backtesting datetime 2023-11-16 09:30:00-05:00
+2024-04-21 10:47:25,388: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:25[0m
+2024-04-21 10:47:25,388: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:25,392: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:25,735: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:25,751: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,009: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,065: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,073: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,082: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,113: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,138: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,829: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,837: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,845: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,853: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,853: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,877: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,894: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:26,910: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:26,994: root: INFO: [32mNew market order of | 111.0 SPY buy | at price $471.6810012817383 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 10:47:27,007: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:27[0m
+2024-04-21 10:47:27,007: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:27,007: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:27,007: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:27,007: root: INFO: market order of | 111.0 SPY buy | at price $471.6810012817383 of class bracket with status new was sent to broker backtesting
+2024-04-21 10:47:27,007: root: INFO: market order of | 111.0 SPY buy | at price $471.6810012817383 of class bracket with status new was sent to broker backtesting
+2024-04-21 10:47:27,007: root: INFO: [32mFilled Transaction: buy 111.0 of SPY at 449.22000122 USD per share[0m
+2024-04-21 10:47:27,007: root: INFO: market order of | 111.0 SPY buy | at price $471.6810012817383 of class bracket with status new was filled
+2024-04-21 10:47:27,023: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:27,023: root: INFO: Current backtesting datetime 2023-11-16 16:00:00-05:00
+2024-04-21 10:47:27,023: root: INFO: Current backtesting datetime 2023-11-17 09:30:00-05:00
+2024-04-21 10:47:27,031: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:27[0m
+2024-04-21 10:47:27,031: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:27,031: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:27,225: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:27,304: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:27,604: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:27,669: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:27,725: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:27,725: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:27,741: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:27,741: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:28,225: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:28,241: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:28,450: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:28,450: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:28,466: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:28,466: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:28,482: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:28,498: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:28,585: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:28[0m
+2024-04-21 10:47:28,587: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,589: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,590: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,591: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,592: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,595: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:28,597: root: INFO: Current backtesting datetime 2023-11-17 16:00:00-05:00
+2024-04-21 10:47:28,599: root: INFO: Current backtesting datetime 2023-11-18 09:30:00-05:00
+2024-04-21 10:47:28,604: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:47:28,604: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,605: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,606: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,607: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,608: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,608: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,610: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,610: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,611: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,614: root: INFO: Current backtesting datetime 2023-11-18 09:29:00-05:00
+2024-04-21 10:47:28,617: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,620: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,621: root: INFO: Current backtesting datetime 2023-11-18 09:29:00-05:00
+2024-04-21 10:47:28,621: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:47:28,621: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,629: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,629: root: INFO: Current backtesting datetime 2023-11-20 08:30:00-05:00
+2024-04-21 10:47:28,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,637: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:28,637: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,637: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:28,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,637: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,645: root: INFO: Current backtesting datetime 2023-11-20 09:30:00-05:00
+2024-04-21 10:47:28,645: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:28,645: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:28[0m
+2024-04-21 10:47:28,645: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:28,847: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:28,871: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:29,136: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:29,152: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:29,249: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:29,265: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:29,515: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:29,572: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:29,807: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:29,831: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:29,993: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:29[0m
+2024-04-21 10:47:29,993: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:29,993: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:29,996: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:29,996: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:29,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:30,001: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:30,001: root: INFO: Current backtesting datetime 2023-11-20 16:00:00-05:00
+2024-04-21 10:47:30,001: root: INFO: Current backtesting datetime 2023-11-21 09:30:00-05:00
+2024-04-21 10:47:30,001: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:30[0m
+2024-04-21 10:47:30,001: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:30,010: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:30,010: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:30,139: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:30,139: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:30,155: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:30,163: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:30,326: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:30,342: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:30,720: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:30,736: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:30,848: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:30,864: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,105: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,121: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,295: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,306: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,523: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,539: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,683: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,700: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,757: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,773: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,796: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:31,813: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:31,949: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:31[0m
+2024-04-21 10:47:31,949: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:31,949: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:31,949: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:31,949: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:31,949: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:31,957: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:31,957: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:31,957: root: INFO: Current backtesting datetime 2023-11-21 16:00:00-05:00
+2024-04-21 10:47:31,965: root: INFO: Current backtesting datetime 2023-11-22 09:30:00-05:00
+2024-04-21 10:47:31,965: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:31[0m
+2024-04-21 10:47:31,965: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:31,965: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:32,207: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:32,231: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:32,447: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:32,463: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:32,594: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:32,618: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:32,876: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:32,932: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,111: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:33,127: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,280: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:33,280: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:33,297: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,297: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,299: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:33,376: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,802: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:33,802: root: INFO: [32mNew market order of | 55.0 SPY buy | at price $477.72901153564453 of class bracket with status unprocessed was submitted.[0m
+2024-04-21 10:47:33,810: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:33[0m
+2024-04-21 10:47:33,810: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,810: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,810: root: INFO: market order of | 55.0 SPY buy | at price $477.72901153564453 of class bracket with status new was sent to broker backtesting
+2024-04-21 10:47:33,818: root: INFO: market order of | 55.0 SPY buy | at price $477.72901153564453 of class bracket with status new was sent to broker backtesting
+2024-04-21 10:47:33,818: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:33,818: root: INFO: [32mFilled Transaction: buy 55.0 of SPY at 454.98001099 USD per share[0m
+2024-04-21 10:47:33,818: root: INFO: market order of | 55.0 SPY buy | at price $477.72901153564453 of class bracket with status new was filled
+2024-04-21 10:47:33,818: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,818: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,826: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,826: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:33,826: root: INFO: Current backtesting datetime 2023-11-22 16:00:00-05:00
+2024-04-21 10:47:33,826: root: INFO: Current backtesting datetime 2023-11-23 09:30:00-05:00
+2024-04-21 10:47:33,834: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:47:33,834: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,834: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,834: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,843: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,843: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,851: root: INFO: Current backtesting datetime 2023-11-23 09:29:00-05:00
+2024-04-21 10:47:33,859: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,859: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,867: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,867: root: INFO: Current backtesting datetime 2023-11-23 09:29:00-05:00
+2024-04-21 10:47:33,867: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:47:33,867: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,867: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,874: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,874: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,874: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,876: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,876: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,877: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,878: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,879: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,879: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,881: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,884: root: INFO: Current backtesting datetime 2023-11-24 08:30:00-05:00
+2024-04-21 10:47:33,885: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,887: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,889: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:33,889: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,890: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,891: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,891: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,891: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,892: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,894: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,894: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,895: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,896: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:33,896: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,897: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,899: root: INFO: Current backtesting datetime 2023-11-24 09:30:00-05:00
+2024-04-21 10:47:33,900: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:33,905: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:33[0m
+2024-04-21 10:47:33,905: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:33,907: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:34,133: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:34,133: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:34,157: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:34,157: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:34,497: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:34,546: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:34,692: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:34,755: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:34,923: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:34,940: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:34,999: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:35,060: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:35,060: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:35,085: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:35,464: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:35,488: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:35,526: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:35[0m
+2024-04-21 10:47:35,526: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,529: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,531: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,532: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,532: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,533: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,534: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,535: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,537: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:35,537: root: INFO: Current backtesting datetime 2023-11-24 13:00:00-05:00
+2024-04-21 10:47:35,537: root: INFO: Current backtesting datetime 2023-11-25 09:30:00-05:00
+2024-04-21 10:47:35,544: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:47:35,544: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,544: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,544: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,552: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,552: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,561: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,561: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,569: root: INFO: Current backtesting datetime 2023-11-25 09:29:00-05:00
+2024-04-21 10:47:35,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,569: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,577: root: INFO: Current backtesting datetime 2023-11-25 09:29:00-05:00
+2024-04-21 10:47:35,585: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:47:35,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,585: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,593: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,593: root: INFO: Current backtesting datetime 2023-11-27 08:30:00-05:00
+2024-04-21 10:47:35,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,602: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:35,603: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,603: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,603: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,609: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:35,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,609: root: INFO: Current backtesting datetime 2023-11-27 09:30:00-05:00
+2024-04-21 10:47:35,609: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:35,617: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:35[0m
+2024-04-21 10:47:35,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:35,836: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:35,860: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:35,868: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:35,900: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,200: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:36,273: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,289: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:36,312: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,652: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:36,716: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,716: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:36,716: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:36,733: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,733: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:36,749: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:36[0m
+2024-04-21 10:47:36,757: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:36,757: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,759: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:36,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,761: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,762: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:36,762: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,763: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,763: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:36,765: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,765: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,765: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:36,765: root: INFO: Current backtesting datetime 2023-11-27 16:00:00-05:00
+2024-04-21 10:47:36,765: root: INFO: Current backtesting datetime 2023-11-28 09:30:00-05:00
+2024-04-21 10:47:36,773: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:36[0m
+2024-04-21 10:47:36,773: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:36,773: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:37,185: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:37,202: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:37,547: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:37,555: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:37,563: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:37,571: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:37,952: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:37,977: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:38,001: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:38,001: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:38,313: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:38,388: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:38,396: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:38,396: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:38,420: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:38,420: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:38,527: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:38[0m
+2024-04-21 10:47:38,527: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:38,527: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,527: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,527: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:38,527: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:38,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:38,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,534: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:38,534: root: INFO: Current backtesting datetime 2023-11-28 16:00:00-05:00
+2024-04-21 10:47:38,542: root: INFO: Current backtesting datetime 2023-11-29 09:30:00-05:00
+2024-04-21 10:47:38,542: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:38[0m
+2024-04-21 10:47:38,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:38,639: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:38,655: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:39,180: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:39,196: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:39,301: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:39,317: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:39,446: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:39,487: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:39,551: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:39,568: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:39,937: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:39[0m
+2024-04-21 10:47:39,937: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:39,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,937: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:39,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,937: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:39,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,945: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:39,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,945: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:39,953: root: INFO: Current backtesting datetime 2023-11-29 16:00:00-05:00
+2024-04-21 10:47:39,953: root: INFO: Current backtesting datetime 2023-11-30 09:30:00-05:00
+2024-04-21 10:47:39,953: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:39[0m
+2024-04-21 10:47:39,953: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:39,961: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:40,018: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,034: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,034: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,050: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,050: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,066: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,162: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,178: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,792: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,817: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,882: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:40,904: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:40,986: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,011: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:41,109: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,197: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:41,472: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:41[0m
+2024-04-21 10:47:41,549: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:41,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,565: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:41,565: root: INFO: Current backtesting datetime 2023-11-30 16:00:00-05:00
+2024-04-21 10:47:41,565: root: INFO: Current backtesting datetime 2023-12-01 09:30:00-05:00
+2024-04-21 10:47:41,573: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:41[0m
+2024-04-21 10:47:41,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:41,657: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,678: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,678: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:41,703: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:41,727: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,727: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:41,751: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:41,751: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:42,396: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:42,420: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:42,518: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:42,518: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:42,542: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:42,542: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:42,670: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:42,743: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:43,372: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:43,372: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:43,397: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:43,397: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:43,437: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:43,437: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:43,462: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:43,462: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:43,613: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:43[0m
+2024-04-21 10:47:43,613: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,613: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,614: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,622: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:43,622: root: INFO: Current backtesting datetime 2023-12-01 16:00:00-05:00
+2024-04-21 10:47:43,622: root: INFO: Current backtesting datetime 2023-12-02 09:30:00-05:00
+2024-04-21 10:47:43,630: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:47:43,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,630: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,646: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,646: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,646: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,646: root: INFO: Current backtesting datetime 2023-12-02 09:29:00-05:00
+2024-04-21 10:47:43,646: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,646: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,654: root: INFO: Current backtesting datetime 2023-12-02 09:29:00-05:00
+2024-04-21 10:47:43,662: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:47:43,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,671: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,792: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,896: root: INFO: Current backtesting datetime 2023-12-04 08:30:00-05:00
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:43,904: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,904: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,904: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,913: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,913: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:43,913: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,913: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,913: root: INFO: Current backtesting datetime 2023-12-04 09:30:00-05:00
+2024-04-21 10:47:43,913: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:43,921: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:43[0m
+2024-04-21 10:47:43,921: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,921: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:43,953: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:43,970: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:44,165: alpaca.trading.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream
+2024-04-21 10:47:44,165: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:44,197: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:44,518: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:44,543: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:44,874: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:44,899: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:44,994: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:44,994: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:44,994: alpaca.trading.stream: ERROR: error during websocket communication: failed to authenticate
+Traceback (most recent call last):
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 168, in _run_forever
+    await self._start_ws()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 129, in _start_ws
+    await self._auth()
+  File "c:\Users\kushw\miniconda3\envs\tgpu\lib\site-packages\alpaca\trading\stream.py", line 76, in _auth
+    raise ValueError("failed to authenticate")
+ValueError: failed to authenticate
+2024-04-21 10:47:45,019: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:45,019: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:45,019: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:45,649: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:45[0m
+2024-04-21 10:47:45,649: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:45,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,649: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:45,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,649: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:45,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,657: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:45,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,657: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:45,665: root: INFO: Current backtesting datetime 2023-12-04 16:00:00-05:00
+2024-04-21 10:47:45,665: root: INFO: Current backtesting datetime 2023-12-05 09:30:00-05:00
+2024-04-21 10:47:45,665: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:45[0m
+2024-04-21 10:47:45,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:45,915: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:45,933: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:46,086: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:46,102: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:46,191: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:46,207: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:46,608: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:46,644: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:46,766: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:46,766: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:46,782: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:46,782: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:47,033: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:47,049: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:47,492: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:47,500: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:47[0m
+2024-04-21 10:47:47,500: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:47,500: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:47,508: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,508: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:47,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,516: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,516: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:47,516: root: INFO: Current backtesting datetime 2023-12-05 16:00:00-05:00
+2024-04-21 10:47:47,516: root: INFO: Current backtesting datetime 2023-12-06 09:30:00-05:00
+2024-04-21 10:47:47,524: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:47[0m
+2024-04-21 10:47:47,524: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,524: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:47,653: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:47,677: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:47,847: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:47,863: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:48,218: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:48,234: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:48,274: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:48,291: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:48,517: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:48,585: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:48,590: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:48,614: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:48,735: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:48[0m
+2024-04-21 10:47:48,735: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:48,735: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,751: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:48,751: root: INFO: Current backtesting datetime 2023-12-06 16:00:00-05:00
+2024-04-21 10:47:48,751: root: INFO: Current backtesting datetime 2023-12-07 09:30:00-05:00
+2024-04-21 10:47:48,751: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:48[0m
+2024-04-21 10:47:48,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:48,759: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,058: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:49,082: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:49,098: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:49,131: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:49,372: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:49,438: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:49,769: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:49,793: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:49,842: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:49,858: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:49,963: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:49[0m
+2024-04-21 10:47:49,963: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:49,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,963: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:49,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,963: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:49,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,971: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:49,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,971: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:49,971: root: INFO: Current backtesting datetime 2023-12-07 16:00:00-05:00
+2024-04-21 10:47:49,979: root: INFO: Current backtesting datetime 2023-12-08 09:30:00-05:00
+2024-04-21 10:47:49,979: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:49[0m
+2024-04-21 10:47:49,979: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:49,979: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:50,132: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:50,132: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:50,148: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:50,148: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:50,649: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:50,650: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:50,666: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:50,666: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:50,956: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:50,972: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:51,382: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:51,397: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:51,429: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:51,453: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:51,639: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:51,649: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:51,652: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:51[0m
+2024-04-21 10:47:51,653: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,653: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,655: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:51,662: root: INFO: Current backtesting datetime 2023-12-08 16:00:00-05:00
+2024-04-21 10:47:51,662: root: INFO: Current backtesting datetime 2023-12-09 09:30:00-05:00
+2024-04-21 10:47:51,662: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:47:51,662: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,686: root: INFO: Current backtesting datetime 2023-12-09 09:29:00-05:00
+2024-04-21 10:47:51,686: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,694: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,702: root: INFO: Current backtesting datetime 2023-12-09 09:29:00-05:00
+2024-04-21 10:47:51,702: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:47:51,702: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,702: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,710: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,710: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,710: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:51,774: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:51,830: root: INFO: Current backtesting datetime 2023-12-11 08:30:00-05:00
+2024-04-21 10:47:51,838: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,838: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,838: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:47:51,838: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,838: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,838: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,838: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,838: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,846: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:51,846: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,846: root: INFO: Current backtesting datetime 2023-12-11 09:30:00-05:00
+2024-04-21 10:47:51,846: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:47:51,854: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:51[0m
+2024-04-21 10:47:51,854: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:51,854: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:52,257: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:52,257: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:52,281: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:52,281: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:52,475: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:52,491: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:52,942: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:52,958: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,030: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,047: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,152: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,168: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,192: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:53[0m
+2024-04-21 10:47:53,192: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:53,192: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,192: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,192: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:53,192: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,200: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:53,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,200: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:53,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,208: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,208: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:53,208: root: INFO: Current backtesting datetime 2023-12-11 16:00:00-05:00
+2024-04-21 10:47:53,208: root: INFO: Current backtesting datetime 2023-12-12 09:30:00-05:00
+2024-04-21 10:47:53,232: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:53[0m
+2024-04-21 10:47:53,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:53,377: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,393: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,774: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,807: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,831: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,855: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:53,943: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:53,967: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:54,539: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:54,539: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:54,563: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:54,563: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:54,611: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:54,627: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:54,815: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:54,828: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:55,143: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:55[0m
+2024-04-21 10:47:55,159: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:55,159: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,159: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,159: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:55,159: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:55,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:55,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,167: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:55,175: root: INFO: Current backtesting datetime 2023-12-12 16:00:00-05:00
+2024-04-21 10:47:55,175: root: INFO: Current backtesting datetime 2023-12-13 09:30:00-05:00
+2024-04-21 10:47:55,175: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:55[0m
+2024-04-21 10:47:55,175: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,175: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:55,319: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:55,335: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:55,409: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:55,422: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:55,431: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:55,439: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:55,969: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:55,993: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:56,114: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:56,126: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:56,139: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:56,139: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:56,299: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:56,331: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:56,854: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:56,878: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:56,951: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:56[0m
+2024-04-21 10:47:56,951: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:56,951: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,951: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,951: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:56,951: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,959: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:56,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,959: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:56,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,967: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:56,967: root: INFO: Current backtesting datetime 2023-12-13 16:00:00-05:00
+2024-04-21 10:47:56,967: root: INFO: Current backtesting datetime 2023-12-14 09:30:00-05:00
+2024-04-21 10:47:56,975: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:56[0m
+2024-04-21 10:47:56,975: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:56,975: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:57,007: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:57,023: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:57,055: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:57,079: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:57,522: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:57,538: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:57,619: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:57,642: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:57,724: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:57,740: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:58,103: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:58,152: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:58,433: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:58,506: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:58,554: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:58,578: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:58,594: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:58,618: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:59,223: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:47:59[0m
+2024-04-21 10:47:59,239: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:59,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,239: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:59,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,239: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:59,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,247: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:47:59,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,247: root: INFO: stop order of | 111.0 SPY sell | at price $426.75900115966795 with status unprocessed was canceled.
+2024-04-21 10:47:59,255: root: INFO: [32mFilled Transaction: sell 111.0 of SPY at 472.50000000 USD per share[0m
+2024-04-21 10:47:59,255: root: INFO: limit order of | 111.0 SPY sell | at price $471.6810012817383 with status unprocessed was filled
+2024-04-21 10:47:59,255: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:47:59,263: root: INFO: Current backtesting datetime 2023-12-14 16:00:00-05:00
+2024-04-21 10:47:59,263: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-04-21 10:47:59,263: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:47:59[0m
+2024-04-21 10:47:59,263: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,263: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:47:59,376: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:59,392: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:59,392: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:59,400: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:59,408: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:59,408: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:47:59,860: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:47:59,875: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:00,132: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:00,149: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:00,197: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:00,223: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:00,227: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:00,237: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:00,903: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:00[0m
+2024-04-21 10:48:00,903: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:00,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,911: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:00,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,919: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:00,919: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-04-21 10:48:00,919: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-04-21 10:48:00,927: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:48:00,927: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:00,927: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,927: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:00,927: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:00,927: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,040: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,040: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,040: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,080: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,080: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,080: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,096: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,104: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,104: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-04-21 10:48:01,104: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,112: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,112: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-04-21 10:48:01,112: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:48:01,112: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,121: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,121: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,121: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,121: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,121: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-04-21 10:48:01,121: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,129: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,129: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:48:01,129: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,133: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,133: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,133: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:01,133: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,133: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,137: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-04-21 10:48:01,137: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:48:01,145: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:01[0m
+2024-04-21 10:48:01,145: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,145: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:01,578: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,603: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,883: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,948: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,948: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,948: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:01,964: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:01,964: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:03,222: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:03,222: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:03,222: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:03,222: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:03,286: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:03,286: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:03,286: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:03,286: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:03,512: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:03[0m
+2024-04-21 10:48:03,512: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:03,512: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:03,512: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:03,512: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:03,512: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:03,520: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:03,520: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:03,528: root: INFO: Current backtesting datetime 2023-12-18 16:00:00-05:00
+2024-04-21 10:48:03,528: root: INFO: Current backtesting datetime 2023-12-19 09:30:00-05:00
+2024-04-21 10:48:03,528: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:03[0m
+2024-04-21 10:48:03,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:03,536: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,135: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:04,136: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:04,151: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:04,157: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:04,599: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:04,623: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:04,898: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:04[0m
+2024-04-21 10:48:04,898: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:04,898: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,898: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,898: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:04,898: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,898: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,898: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:04,906: root: INFO: Current backtesting datetime 2023-12-19 16:00:00-05:00
+2024-04-21 10:48:04,906: root: INFO: Current backtesting datetime 2023-12-20 09:30:00-05:00
+2024-04-21 10:48:04,914: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:04[0m
+2024-04-21 10:48:04,914: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:04,914: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:05,003: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,003: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,011: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,011: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,019: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:05,035: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:05,035: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:05,035: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:05,900: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,916: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:05,916: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:05,932: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:06,360: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:06,377: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:06,732: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:06,748: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:06,749: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:06[0m
+2024-04-21 10:48:06,750: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:06,750: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,753: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,753: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:06,753: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,756: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:06,756: root: INFO: Current backtesting datetime 2023-12-20 16:00:00-05:00
+2024-04-21 10:48:06,756: root: INFO: Current backtesting datetime 2023-12-21 09:30:00-05:00
+2024-04-21 10:48:06,764: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:06,764: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:06[0m
+2024-04-21 10:48:06,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:06,789: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:06,821: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:06,821: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:06,845: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:06,845: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:07,594: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:07,602: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:07,610: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:07,634: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,007: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:08,023: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,272: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:08,288: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,362: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:08,362: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:08,378: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,378: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,394: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:08,410: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:08,587: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:08[0m
+2024-04-21 10:48:08,587: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:08,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:08,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:08,587: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:08,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:08,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:08,595: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:08,595: root: INFO: Current backtesting datetime 2023-12-21 16:00:00-05:00
+2024-04-21 10:48:08,595: root: INFO: Current backtesting datetime 2023-12-22 09:30:00-05:00
+2024-04-21 10:48:08,603: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:08[0m
+2024-04-21 10:48:08,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:08,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:09,133: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,150: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:09,206: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,222: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:09,602: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,627: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:09,982: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,982: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,982: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:09,998: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:09,998: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:09,998: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:10,061: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:10,085: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:10,522: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:10[0m
+2024-04-21 10:48:10,522: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,522: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,530: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:10,530: root: INFO: Current backtesting datetime 2023-12-22 16:00:00-05:00
+2024-04-21 10:48:10,530: root: INFO: Current backtesting datetime 2023-12-23 09:30:00-05:00
+2024-04-21 10:48:10,538: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:48:10,538: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,545: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,545: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,546: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,546: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,554: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-04-21 10:48:10,554: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,554: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,562: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,562: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,562: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,562: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,562: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-04-21 10:48:10,571: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:48:10,571: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,571: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,571: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,579: root: INFO: Current backtesting datetime 2023-12-26 08:30:00-05:00
+2024-04-21 10:48:10,579: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,579: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,579: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:48:10,579: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,579: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,587: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:10,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,587: root: INFO: Current backtesting datetime 2023-12-26 09:30:00-05:00
+2024-04-21 10:48:10,595: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:48:10,595: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:10[0m
+2024-04-21 10:48:10,595: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,603: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:10,765: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:10,781: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:10,838: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:10,853: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:11,224: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:11[0m
+2024-04-21 10:48:11,224: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:11,224: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,232: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:11,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,232: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:11,232: root: INFO: Current backtesting datetime 2023-12-26 16:00:00-05:00
+2024-04-21 10:48:11,240: root: INFO: Current backtesting datetime 2023-12-27 09:30:00-05:00
+2024-04-21 10:48:11,245: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:11[0m
+2024-04-21 10:48:11,246: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:11,395: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:11,419: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:11,665: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:11,673: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:11,681: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:11,698: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:11,780: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:11,780: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:11,794: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:11,795: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:12,524: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:12,540: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:12,564: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:12,588: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:13,000: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:13[0m
+2024-04-21 10:48:13,000: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:13,000: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,008: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:13,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,008: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,008: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:13,016: root: INFO: Current backtesting datetime 2023-12-27 16:00:00-05:00
+2024-04-21 10:48:13,016: root: INFO: Current backtesting datetime 2023-12-28 09:30:00-05:00
+2024-04-21 10:48:13,016: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:13[0m
+2024-04-21 10:48:13,016: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,024: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:13,080: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:13,104: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:13,275: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:13,275: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:13,292: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:13,292: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:13,357: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:13,373: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:13,494: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:13,567: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:14,048: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:14,064: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:14,108: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:14,108: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:14,651: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:14,667: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:14,731: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:14[0m
+2024-04-21 10:48:14,731: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:14,731: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,739: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,739: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,739: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:14,747: root: INFO: Current backtesting datetime 2023-12-28 16:00:00-05:00
+2024-04-21 10:48:14,747: root: INFO: Current backtesting datetime 2023-12-29 09:30:00-05:00
+2024-04-21 10:48:14,751: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-04-21 10:48:14[0m
+2024-04-21 10:48:14,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,755: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:14,991: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,007: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:15,088: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,097: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,104: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:15,113: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:15,282: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,353: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:15,822: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,830: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:15,838: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:15,846: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:16,308: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:16,322: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:16,338: root: INFO: [34mMLTrader : Trading iteration ended at 2024-04-21 10:48:16[0m
+2024-04-21 10:48:16,338: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,338: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,346: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,346: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,346: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,346: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,346: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-04-21 10:48:16,354: root: INFO: Current backtesting datetime 2023-12-29 16:00:00-05:00
+2024-04-21 10:48:16,354: root: INFO: Current backtesting datetime 2023-12-30 09:30:00-05:00
+2024-04-21 10:48:16,354: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-04-21 10:48:16,362: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,362: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,362: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,362: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,362: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,362: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,362: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,370: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,370: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,370: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,370: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,370: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,378: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-04-21 10:48:16,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,378: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,378: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,386: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-04-21 10:48:16,386: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:48:16,386: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,394: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,394: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,402: root: INFO: Current backtesting datetime 2024-01-02 08:30:00-05:00
+2024-04-21 10:48:16,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,410: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-04-21 10:48:16,410: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,410: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,418: root: INFO: Current backtesting datetime 2024-01-02 09:30:00-05:00
+2024-04-21 10:48:16,418: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-04-21 10:48:16,418: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,426: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,426: root: INFO: Current backtesting datetime 2024-01-02 15:59:00-05:00
+2024-04-21 10:48:16,434: root: INFO: MLTrader : Executing the before_market_closes lifecycle method
+2024-04-21 10:48:16,434: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,434: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-04-21 10:48:16,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-04-21 10:48:16,442: root: INFO: Current backtesting datetime 2024-01-02 16:00:00-05:00
+2024-04-21 10:48:16,442: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-04-21 10:48:16,442: root: INFO: MLTrader : Executing the on_strategy_end lifecycle method
+2024-04-21 10:48:16,669: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:16,677: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:16,677: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:16,703: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:16,704: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:16,705: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:17,074: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:17,232: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:17,501: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:17,533: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:17,574: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:17,582: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:18,000: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:18,040: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:18,554: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:18,554: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:18,554: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:18,570: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:18,570: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:18,578: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:18,883: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:19,052: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:19,281: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:19,294: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:19,383: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:19,473: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:19,494: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:19,512: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:20,244: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:20,244: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:20,264: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:20,265: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:20,312: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:20,336: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:20,797: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:20,821: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:20,950: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:20,966: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:21,031: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:21,047: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:21,121: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:21,193: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:21,856: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:21,872: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:21,944: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:21,944: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:21,960: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:21,977: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:22,250: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:22,378: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:22,481: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:22,529: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:22,723: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:22,795: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:22,852: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:22,852: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:22,903: root: INFO: Backtesting finished
+2024-04-21 10:48:23,312: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:23,337: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:23,594: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:23,594: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:23,634: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:23,659: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:24,065: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:24,079: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:24,095: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:24,111: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:24,417: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:24,433: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:24,482: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:24,498: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:24,907: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:24,931: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:25,301: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:25,301: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:25,325: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:25,325: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:25,736: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:25,752: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:25,752: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:25,768: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:26,164: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:26,164: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:26,180: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:26,180: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:26,574: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:26,598: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:26,834: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:26,850: alpaca.trading.stream: INFO: starting trading websocket connection
+2024-04-21 10:48:26,864: alpaca.trading.stream: WARNING: trading stream websocket error, restarting  connection: server rejected WebSocket connection: HTTP 429
+2024-04-21 10:48:26,898: alpaca.trading.stream: INFO: starting trading websocket connection
