@@ -1,6 +1,7 @@
 import yfinance as yf
 import numpy as np
 import cvxpy as cp
+from lumibotPython import MLTrader
 
 # Define the tickers for assets in your portfolio
 tickers = ['AAPL', 'GOOG', 'MSFT', 'AMZN']
@@ -64,3 +65,5 @@ for i in range(len(tickers)):
         print(f"Divest {abs(amounts[i])} from {tickers[i]}")
     else:
         print(f"No change in investment for {tickers[i]}")
+
+
